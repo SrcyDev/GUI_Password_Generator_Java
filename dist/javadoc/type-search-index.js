@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ui","l":"app"},{"p":"gui_password_generator_java","l":"main"}];updateSearchResults();

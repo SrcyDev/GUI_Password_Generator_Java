@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"gui_password_generator_java"},{"l":"ui"}];updateSearchResults();
